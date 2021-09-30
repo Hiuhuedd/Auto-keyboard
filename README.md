@@ -1,0 +1,2 @@
+# Auto-keyboard
+Auto keyboard uses machine learning to make writing suggestions as you type. And what's really cool about the feature is that it works on a per-keystroke basis. As you're typing, the brain behind Auto keyboard is thinking and predicting what you'll want to say next. It's not robot speak either—it's conversational yet professional when it needs to be. For example, while composing an assignment, Auto keyboard will make suggestions based on context. With a quick press of the Tab key, you can write clear and concise sentences using the easy tool.
